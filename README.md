@@ -1,4 +1,4 @@
-# Initial Web Site Setup
+# UNIX Exercise - Initial Website Setup
 
 Welcome! In this assignment, you will copy Hypertext Markup Language (HTML) code for a super-simple web page, upload that web page to a web server, and verify that the web page is indeed live on the web.
 

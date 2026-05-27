@@ -1,9 +1,8 @@
 """
 Tests of an assignment to set up a skeleton of a web page and publish it online on a web server.
 
-Selenium webdriver for Chrome (a.k.a. the file named chromedriver) must be installed in either:
-- in the same directory as chrome.exe on Windows (e.g. C:\Program Files\Google\Chrome\Application)
-- in a directory that is included in the PATH on Mac OS X (e.g. /usr/local/bin)
+Requires Selenium 4.6+ (uses Selenium Manager to auto-manage chromedriver)
+and a recent installation of Google Chrome.
 """
 
 import pytest
